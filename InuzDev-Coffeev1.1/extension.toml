@@ -1,7 +1,0 @@
-id = "new-theme"
-name = "New Theme"
-version = "0.0.1"
-schema_version = 1
-authors = ["Inuzdev "]
-description = "A coffee theme by InuzDev - v1.1"
-repository = "https://github.com/your-name/my-zed-extension"
