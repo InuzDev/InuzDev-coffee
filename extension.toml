@@ -1,0 +1,7 @@
+id = "InuCoffee"
+name = "Inu Coffee"
+version = "0.0.1"
+schema_version = 1
+authors = ["Inuzdev, Carlos David Jorge"]
+description = "A coffee theme by InuzDev - v1"
+repository = "https://github.com/InuzDev/InuzDev-coffee"
