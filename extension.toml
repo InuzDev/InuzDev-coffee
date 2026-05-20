@@ -1,7 +1,7 @@
 id = "inu-coffee"
 name = "Inu Coffee"
-version = "1.0.2"
+version = "1.1.3"
 schema_version = 1
 authors = ["Inuzdev, Carlos David Jorge"]
-description = "A coffee theme by InuzDev - v1.0.2"
+description = "A coffee theme by InuzDev - v1.1.3"
 repository = "https://github.com/InuzDev/InuzDev-coffee"
